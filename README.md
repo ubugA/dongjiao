@@ -8,7 +8,8 @@
 - 前端：uniapp
 
 ## 预览
-![Uploading 微信截图_20240319105748.png…]()
+![微信截图_20240319105748](https://github.com/ubugA/dongjiao/assets/145946698/f79deb29-f359-49ff-a8b5-5cf3fa3ae60f)
+
 ![ass](https://github.com/ubugA/dongjiao/assets/145946698/50195426-b360-42b6-a456-45f1b2447bbb)
 ![预览图1](https://github.com/ubugA/-212/assets/145946698/908230c9-37ce-415e-ab0f-25c1b2a14250)
 ![预览图2](https://github.com/ubugA/-212/assets/145946698/9f817021-fb2c-42b3-b48b-1b1ddc7e0903)
