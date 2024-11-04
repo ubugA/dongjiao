@@ -14,6 +14,7 @@
 ![微信截图_20240809082207](https://github.com/user-attachments/assets/842affc5-819a-41a4-a3cf-beb2e19c8d49)
 ![预览图1](https://github.com/ubugA/-212/assets/145946698/908230c9-37ce-415e-ab0f-25c1b2a14250)
 ![微信截图_20240613135633](https://github.com/ubugA/dongjiao/assets/145946698/98ab1d76-866f-4bc6-803b-58ff97c3c2a9)
+![微信截图_20241104133802](https://github.com/user-attachments/assets/e9286ced-f37a-4bea-8f0f-be96819f1f45)
 
 
 1
